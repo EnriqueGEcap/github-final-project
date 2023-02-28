@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # EnriqueGECap
+   # EnriqueGEcap
 
    # Input:
    # p, principal amount
